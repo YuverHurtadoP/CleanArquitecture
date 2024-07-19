@@ -2,4 +2,34 @@ dotnet new sln -o nombreSolucion
 dotnet new classlib - o Nombre -f net7.0
 dotnet new webapi -o Web.API -f net7.0
 
+dotnet build
+
+
+La capa dominio puede ser vista o referenciada por los demas, pero dominio no puede refeenciar a  nadie
+
+
+*dotnet add Aplication/Aplication.csproj reference Domain/Domain.csproj
+dotnet add Infrastructure/Infrastructure.csproj reference Domain/Domain.csproj
+
+
+*La capa de infraestructura puede ver o referenciar a la capa de Aplicacion
+pero la capa de aplicacion no puede ver a la capa de infraestructura
+
+dotnet add Infrastructure/Infrastructure.csproj reference Aplication/Aplication.csproj
+
+*A la api se le debe agregar la capa de aplicaciones y la capa de infraestructura
+dotnet add Web.API/web.API.csproj reference Aplication/Aplication.csproj Infrastructure/Infrastructure.csproj
+
+
+*toda las soluciones deben estar refenciadas en la sln
+
+dotnet sln add Infrastructure/Infrastructure.csproj Aplication/Aplication.csproj Domain/Domain.csproj Web.API/web.API.csproj
+
+
+
+
+dotnet run -p Web.API
+
+
+
 

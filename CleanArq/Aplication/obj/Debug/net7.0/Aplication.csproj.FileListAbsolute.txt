@@ -1,0 +1,16 @@
+E:\CleanArquitecture\CleanArq\Aplication\bin\Debug\net7.0\Aplication.deps.json
+E:\CleanArquitecture\CleanArq\Aplication\bin\Debug\net7.0\Aplication.dll
+E:\CleanArquitecture\CleanArq\Aplication\bin\Debug\net7.0\Aplication.pdb
+E:\CleanArquitecture\CleanArq\Aplication\bin\Debug\net7.0\Domain.dll
+E:\CleanArquitecture\CleanArq\Aplication\bin\Debug\net7.0\Domain.pdb
+E:\CleanArquitecture\CleanArq\Aplication\obj\Debug\net7.0\Aplication.csproj.AssemblyReference.cache
+E:\CleanArquitecture\CleanArq\Aplication\obj\Debug\net7.0\Aplication.GeneratedMSBuildEditorConfig.editorconfig
+E:\CleanArquitecture\CleanArq\Aplication\obj\Debug\net7.0\Aplication.AssemblyInfoInputs.cache
+E:\CleanArquitecture\CleanArq\Aplication\obj\Debug\net7.0\Aplication.AssemblyInfo.cs
+E:\CleanArquitecture\CleanArq\Aplication\obj\Debug\net7.0\Aplication.csproj.CoreCompileInputs.cache
+E:\CleanArquitecture\CleanArq\Aplication\obj\Debug\net7.0\Aplication.sourcelink.json
+E:\CleanArquitecture\CleanArq\Aplication\obj\Debug\net7.0\Aplication.csproj.Up2Date
+E:\CleanArquitecture\CleanArq\Aplication\obj\Debug\net7.0\Aplication.dll
+E:\CleanArquitecture\CleanArq\Aplication\obj\Debug\net7.0\refint\Aplication.dll
+E:\CleanArquitecture\CleanArq\Aplication\obj\Debug\net7.0\Aplication.pdb
+E:\CleanArquitecture\CleanArq\Aplication\obj\Debug\net7.0\ref\Aplication.dll
