@@ -1,0 +1,5 @@
+dotnet new sln -o nombreSolucion
+dotnet new classlib - o Nombre -f net7.0
+dotnet new webapi -o Web.API -f net7.0
+
+
