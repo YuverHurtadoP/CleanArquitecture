@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "kDwuKxU3vlTQl0W7TmXpx3X63nDLlGL19x9sPBwNcb6W2NJctQv4DDzhG//GllvdozziuCE4k/pThQ0DjlRyEA==",
+  "dgSpecHash": "v27DCbNiAbamfwWMAHB3LUO1U44W8ogEHdMcbr8PR6tcXZudQLP9FbgBIvo4FcQDV0btDXLyjf84kbf7gzASPQ==",
   "success": true,
   "projectFilePath": "E:\\CleanArquitecture\\CleanArq\\Aplication\\Aplication.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\yuver\\.nuget\\packages\\mediatr\\12.3.0\\mediatr.12.3.0.nupkg.sha512",
+    "C:\\Users\\yuver\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\yuver\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

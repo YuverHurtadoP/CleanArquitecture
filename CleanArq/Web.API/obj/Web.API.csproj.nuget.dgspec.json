@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "E:\\CleanArquitecture\\CleanArq\\Web.API\\Web.API.csproj": {}
+    "E:\\CleanArquitecture\\CleanArq\\Web.API\\web.API.csproj": {}
   },
   "projects": {
     "E:\\CleanArquitecture\\CleanArq\\Aplication\\Aplication.csproj": {
@@ -48,6 +48,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.3.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -108,6 +114,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.3.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -195,12 +207,12 @@
         }
       }
     },
-    "E:\\CleanArquitecture\\CleanArq\\Web.API\\Web.API.csproj": {
+    "E:\\CleanArquitecture\\CleanArq\\Web.API\\web.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CleanArquitecture\\CleanArq\\Web.API\\Web.API.csproj",
-        "projectName": "Web.API",
-        "projectPath": "E:\\CleanArquitecture\\CleanArq\\Web.API\\Web.API.csproj",
+        "projectUniqueName": "E:\\CleanArquitecture\\CleanArq\\Web.API\\web.API.csproj",
+        "projectName": "web.API",
+        "projectPath": "E:\\CleanArquitecture\\CleanArq\\Web.API\\web.API.csproj",
         "packagesPath": "C:\\Users\\yuver\\.nuget\\packages\\",
         "outputPath": "E:\\CleanArquitecture\\CleanArq\\Web.API\\obj\\",
         "projectStyle": "PackageReference",

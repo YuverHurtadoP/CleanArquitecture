@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "2zTHkxDZmya1pQUmNjTcNIREq7cKMhPREdBVRG1pM44QduiBRlFuaKzMkFtUg7hHq4maI/YTFnmuPZfQY4nm2w==",
+  "dgSpecHash": "300lX+uY35w6xE5sjX/qBxSwvnAOcQuQYFDwdGAEfefsAFTqdm++RJyhBTx3fJuOi31oVCtbZk0DTzIGUYrYSA==",
   "success": true,
-  "projectFilePath": "E:\\CleanArquitecture\\CleanArq\\Web.API\\Web.API.csproj",
+  "projectFilePath": "E:\\CleanArquitecture\\CleanArq\\Web.API\\web.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\yuver\\.nuget\\packages\\mediatr\\12.3.0\\mediatr.12.3.0.nupkg.sha512",
+    "C:\\Users\\yuver\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\yuver\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.16\\microsoft.aspnetcore.openapi.7.0.16.nupkg.sha512",
     "C:\\Users\\yuver\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\yuver\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\yuver\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
     "C:\\Users\\yuver\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "C:\\Users\\yuver\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
