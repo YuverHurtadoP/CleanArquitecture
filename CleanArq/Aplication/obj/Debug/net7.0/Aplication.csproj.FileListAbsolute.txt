@@ -14,3 +14,5 @@ E:\CleanArquitecture\CleanArq\Aplication\obj\Debug\net7.0\Aplication.dll
 E:\CleanArquitecture\CleanArq\Aplication\obj\Debug\net7.0\refint\Aplication.dll
 E:\CleanArquitecture\CleanArq\Aplication\obj\Debug\net7.0\Aplication.pdb
 E:\CleanArquitecture\CleanArq\Aplication\obj\Debug\net7.0\ref\Aplication.dll
+E:\CleanArquitecture\CleanArq\Aplication\bin\Debug\net7.0\Aplication.runtimeconfig.json
+E:\CleanArquitecture\CleanArq\Aplication\obj\Debug\net7.0\Aplication.genruntimeconfig.cache

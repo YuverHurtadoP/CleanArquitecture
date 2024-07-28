@@ -10,3 +10,6 @@ E:\CleanArquitecture\CleanArq\Domain\obj\Debug\net7.0\Domain.dll
 E:\CleanArquitecture\CleanArq\Domain\obj\Debug\net7.0\refint\Domain.dll
 E:\CleanArquitecture\CleanArq\Domain\obj\Debug\net7.0\Domain.pdb
 E:\CleanArquitecture\CleanArq\Domain\obj\Debug\net7.0\ref\Domain.dll
+E:\CleanArquitecture\CleanArq\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+E:\CleanArquitecture\CleanArq\Domain\bin\Debug\net7.0\Domain.runtimeconfig.json
+E:\CleanArquitecture\CleanArq\Domain\obj\Debug\net7.0\Domain.genruntimeconfig.cache

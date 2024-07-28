@@ -16,3 +16,5 @@ E:\CleanArquitecture\CleanArq\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
 E:\CleanArquitecture\CleanArq\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
 E:\CleanArquitecture\CleanArq\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
 E:\CleanArquitecture\CleanArq\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+E:\CleanArquitecture\CleanArq\Infrastructure\bin\Debug\net7.0\Infrastructure.runtimeconfig.json
+E:\CleanArquitecture\CleanArq\Infrastructure\obj\Debug\net7.0\Infrastructure.genruntimeconfig.cache
