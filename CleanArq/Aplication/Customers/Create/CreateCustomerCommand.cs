@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using ErrorOr;
 using MediatR;
 
 namespace Aplication.Customers.Create
@@ -17,5 +18,5 @@ namespace Aplication.Customers.Create
         string City,
         string State,
         string ZipCode
-    ) : IRequest<Unit>;
+    ) : IRequest<ErrorOr<Unit>>;
 }

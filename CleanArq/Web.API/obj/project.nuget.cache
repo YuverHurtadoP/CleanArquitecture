@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Eo4AN1lxYhMpmf3jT7PzSpfsmLuK185SjjAqi7JCvVS7XHjl272+au4oE68FyhZHKLHAXXCK8t/nvgHvJXAtoA==",
+  "dgSpecHash": "MK63QIZFqQ6F0cPJ0N7uuX81se2L+PKDtpun6CsAI5hUC+if5YQiud1uQ2WIGqlmh5KoX5gK5z6kPFKbvt+uzw==",
   "success": true,
-  "projectFilePath": "E:\\CleanArquitecture\\CleanArq\\Web.API\\Web.API.csproj",
+  "projectFilePath": "E:\\CleanArquitecture\\CleanArq\\Web.API\\web.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yuver\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\yuver\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
+    "C:\\Users\\yuver\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512",
     "C:\\Users\\yuver\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512",
     "C:\\Users\\yuver\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
     "C:\\Users\\yuver\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",

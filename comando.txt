@@ -31,5 +31,10 @@ dotnet sln add Infrastructure/Infrastructure.csproj Aplication/Aplication.csproj
 dotnet run -p Web.API
 
 
+dotnet ef migrations add InitialMigration -p Infrastructure -s Web.API -o Persistence/Migrations
+
+dotnet ef database update -p Infrastructure -s Web.API
+
+
 
 

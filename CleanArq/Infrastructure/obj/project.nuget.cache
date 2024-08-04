@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "eJiZSUC2juNEm0DAKyvpeR5dbA9JKgh9yHWUS5wczQUShhVeAYTIweqlaL8lYGYyT777WSE3EHUBs12QTMQ9cQ==",
+  "dgSpecHash": "QeyZVnIJnYQofUSSWGB5Ain3VWUWWltIXDxsElSuCONNm1+CcnWPkh4T5IWFB7ThNBrb2zQe1GY54dtBIjRbjA==",
   "success": true,
   "projectFilePath": "E:\\CleanArquitecture\\CleanArq\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yuver\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\yuver\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
+    "C:\\Users\\yuver\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512",
     "C:\\Users\\yuver\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512",
     "C:\\Users\\yuver\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
     "C:\\Users\\yuver\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",

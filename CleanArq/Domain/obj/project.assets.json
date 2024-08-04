@@ -46,6 +46,19 @@
           }
         }
       },
+      "ErrorOr/2.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/ErrorOr.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/ErrorOr.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Humanizer.Core/2.14.1": {
         "type": "package",
         "compile": {
@@ -1152,6 +1165,23 @@
         "azureicon.png",
         "lib/netstandard2.0/Azure.Identity.dll",
         "lib/netstandard2.0/Azure.Identity.xml"
+      ]
+    },
+    "ErrorOr/2.0.1": {
+      "sha512": "aje9lUVEAsusPFmaRcVM5EUqWBofd7hYtb9N8+ycgPYrtOzyFajMpzRgIO4uuiCllNLBc3x48+cpA+4v4koUDQ==",
+      "type": "package",
+      "path": "erroror/2.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "erroror.2.0.1.nupkg.sha512",
+        "erroror.nuspec",
+        "icon-square.png",
+        "lib/net6.0/ErrorOr.dll",
+        "lib/net6.0/ErrorOr.xml",
+        "lib/netstandard2.0/ErrorOr.dll",
+        "lib/netstandard2.0/ErrorOr.xml"
       ]
     },
     "Humanizer.Core/2.14.1": {
@@ -3026,6 +3056,7 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "ErrorOr >= 2.0.1",
       "MediatR >= 12.3.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.20",
       "Microsoft.EntityFrameworkCore.Tools >= 7.0.20"
@@ -3037,11 +3068,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\CleanArquitecture\\CleanArq\\Domain\\Domain.csproj",
+      "projectUniqueName": "e:\\CleanArquitecture\\CleanArq\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "E:\\CleanArquitecture\\CleanArq\\Domain\\Domain.csproj",
+      "projectPath": "e:\\CleanArquitecture\\CleanArq\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\yuver\\.nuget\\packages\\",
-      "outputPath": "E:\\CleanArquitecture\\CleanArq\\Domain\\obj\\",
+      "outputPath": "e:\\CleanArquitecture\\CleanArq\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yuver\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3075,6 +3106,10 @@
       "net7.0": {
         "targetAlias": "net7.0",
         "dependencies": {
+          "ErrorOr": {
+            "target": "Package",
+            "version": "[2.0.1, )"
+          },
           "MediatR": {
             "target": "Package",
             "version": "[12.3.0, )"
