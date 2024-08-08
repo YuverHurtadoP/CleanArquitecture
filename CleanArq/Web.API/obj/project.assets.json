@@ -1318,6 +1318,7 @@
         "dependencies": {
           "Aplication": "1.0.0",
           "Domain": "1.0.0",
+          "ErrorOr": "2.0.1",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.20"
         },
         "compile": {

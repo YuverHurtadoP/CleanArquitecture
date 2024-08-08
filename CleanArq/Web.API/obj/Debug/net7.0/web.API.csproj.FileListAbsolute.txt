@@ -87,3 +87,4 @@ E:\CleanArquitecture\CleanArq\Web.API\bin\Debug\net7.0\Microsoft.EntityFramework
 E:\CleanArquitecture\CleanArq\Web.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
 E:\CleanArquitecture\CleanArq\Web.API\bin\Debug\net7.0\Mono.TextTemplating.dll
 E:\CleanArquitecture\CleanArq\Web.API\bin\Debug\net7.0\System.CodeDom.dll
+E:\CleanArquitecture\CleanArq\Web.API\bin\Debug\net7.0\ErrorOr.dll
