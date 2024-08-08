@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4PvR4BfOdBdsrgZvuDuVYt6W1aRHUqY6qQ+mAa2kwzYgLGFriu8y+iQC0fswDwruU8qn44kem37Vuz+4fgEJ/w==",
+  "dgSpecHash": "+rFrwxQ2E6DtxqItIT7xy1PKC+eMlQmXhOdDemrUv/X1AkfSbv+Qy1pJ3HP08kB5xfNWAUFMk8KG/0R4NWMg5Q==",
   "success": true,
-  "projectFilePath": "E:\\CleanArquitecture\\CleanArq\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "e:\\CleanArquitecture\\CleanArq\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yuver\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\yuver\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

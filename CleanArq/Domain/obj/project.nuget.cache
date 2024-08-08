@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "niIzD4ik00KQbwtbRxRX/ZYzccPESBbjDcw40QUZEyzj0t4BBsh570QiQzfvFUEyMoejkh9g6jzR2MdylI6Olg==",
+  "dgSpecHash": "wI53mzJzGYN5u8WUAhu1frOYz/l8lHi7BFPHH093p5WBN4mgrsed3EwAt1UvIl6efdh0LEdzDzXS6K9K/ZDflA==",
   "success": true,
-  "projectFilePath": "E:\\CleanArquitecture\\CleanArq\\Domain\\Domain.csproj",
+  "projectFilePath": "e:\\CleanArquitecture\\CleanArq\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yuver\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\yuver\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

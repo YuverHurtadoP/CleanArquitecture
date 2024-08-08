@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\CleanArquitecture\\CleanArq\\Aplication\\Aplication.csproj": {}
+    "e:\\CleanArquitecture\\CleanArq\\Aplication\\Aplication.csproj": {}
   },
   "projects": {
-    "E:\\CleanArquitecture\\CleanArq\\Aplication\\Aplication.csproj": {
+    "e:\\CleanArquitecture\\CleanArq\\Aplication\\Aplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CleanArquitecture\\CleanArq\\Aplication\\Aplication.csproj",
+        "projectUniqueName": "e:\\CleanArquitecture\\CleanArq\\Aplication\\Aplication.csproj",
         "projectName": "Aplication",
-        "projectPath": "E:\\CleanArquitecture\\CleanArq\\Aplication\\Aplication.csproj",
+        "projectPath": "e:\\CleanArquitecture\\CleanArq\\Aplication\\Aplication.csproj",
         "packagesPath": "C:\\Users\\yuver\\.nuget\\packages\\",
-        "outputPath": "E:\\CleanArquitecture\\CleanArq\\Aplication\\obj\\",
+        "outputPath": "e:\\CleanArquitecture\\CleanArq\\Aplication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yuver\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "E:\\CleanArquitecture\\CleanArq\\Domain\\Domain.csproj": {
-                "projectPath": "E:\\CleanArquitecture\\CleanArq\\Domain\\Domain.csproj"
+              "e:\\CleanArquitecture\\CleanArq\\Domain\\Domain.csproj": {
+                "projectPath": "e:\\CleanArquitecture\\CleanArq\\Domain\\Domain.csproj"
               }
             }
           }
@@ -100,14 +100,14 @@
         }
       }
     },
-    "E:\\CleanArquitecture\\CleanArq\\Domain\\Domain.csproj": {
+    "e:\\CleanArquitecture\\CleanArq\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CleanArquitecture\\CleanArq\\Domain\\Domain.csproj",
+        "projectUniqueName": "e:\\CleanArquitecture\\CleanArq\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "E:\\CleanArquitecture\\CleanArq\\Domain\\Domain.csproj",
+        "projectPath": "e:\\CleanArquitecture\\CleanArq\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\yuver\\.nuget\\packages\\",
-        "outputPath": "E:\\CleanArquitecture\\CleanArq\\Domain\\obj\\",
+        "outputPath": "e:\\CleanArquitecture\\CleanArq\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yuver\\AppData\\Roaming\\NuGet\\NuGet.Config",

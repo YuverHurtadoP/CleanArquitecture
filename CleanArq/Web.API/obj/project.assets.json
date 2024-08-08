@@ -3703,11 +3703,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\CleanArquitecture\\CleanArq\\Web.API\\web.API.csproj",
+      "projectUniqueName": "e:\\CleanArquitecture\\CleanArq\\Web.API\\web.API.csproj",
       "projectName": "web.API",
-      "projectPath": "E:\\CleanArquitecture\\CleanArq\\Web.API\\web.API.csproj",
+      "projectPath": "e:\\CleanArquitecture\\CleanArq\\Web.API\\web.API.csproj",
       "packagesPath": "C:\\Users\\yuver\\.nuget\\packages\\",
-      "outputPath": "E:\\CleanArquitecture\\CleanArq\\Web.API\\obj\\",
+      "outputPath": "e:\\CleanArquitecture\\CleanArq\\Web.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yuver\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3724,11 +3724,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "E:\\CleanArquitecture\\CleanArq\\Aplication\\Aplication.csproj": {
-              "projectPath": "E:\\CleanArquitecture\\CleanArq\\Aplication\\Aplication.csproj"
+            "e:\\CleanArquitecture\\CleanArq\\Aplication\\Aplication.csproj": {
+              "projectPath": "e:\\CleanArquitecture\\CleanArq\\Aplication\\Aplication.csproj"
             },
-            "E:\\CleanArquitecture\\CleanArq\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "E:\\CleanArquitecture\\CleanArq\\Infrastructure\\Infrastructure.csproj"
+            "e:\\CleanArquitecture\\CleanArq\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "e:\\CleanArquitecture\\CleanArq\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
